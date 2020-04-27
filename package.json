@@ -1,0 +1,22 @@
+{
+  "name": "cs_fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthew-charles-chan/cs_fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthew-charles-chan/cs_fundamentals/issues"
+  },
+  "homepage": "https://github.com/matthew-charles-chan/cs_fundamentals#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}

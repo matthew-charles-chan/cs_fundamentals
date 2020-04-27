@@ -57,7 +57,7 @@ class LinkedList {
     // find node of previous index
     const node = this._find(index - 1, this._testIndex);
     // node to delete is, node.next of node
-    const excise = node.next;ds
+    const excise = node.next;
 
     // if there is no node to delete, return null
     if(!excise) return null;
@@ -89,3 +89,10 @@ class Node {
     this.next = null;
   }
 }
+
+
+//test
+const lList = new LinkedList
+lList.push(3)
+lList.push(4)
+console.log(lList)
